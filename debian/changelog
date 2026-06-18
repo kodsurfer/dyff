@@ -1,0 +1,13 @@
+dyff (1.12.0-1) unstable; urgency=medium
+
+  * New upstream release (v1.12.0)
+  * Update debian/control to match new dependencies
+  * Update Standards-Version to 4.7.0
+
+ -- Anton Kolomytsev <kodsurfer@yandex.com>  Tue, 16 Jun 2026 20:00:00 +0300
+
+dyff (1.11.2-1) stable; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Anton Kolomytsev <kodsurfer@yandex.com>  Mon, 16 Mar 2026 15:16:21 +0300
